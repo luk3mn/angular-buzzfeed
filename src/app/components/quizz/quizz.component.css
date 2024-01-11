@@ -18,7 +18,7 @@
 
 .quizz_questions {
     display: flex;
-    align-items: center;
+    justify-content: center;
     align-items: center;
     border: 1px solid #4224d9;
     border-radius: 8px;
